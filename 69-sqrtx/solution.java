@@ -3,7 +3,7 @@
  * Difficulty : Easy
  * Language   : java
  * Runtime    : 1 ms
- * Memory     : 42.52 MB
+ * Memory     : 42.80 MB
  * URL        : https://leetcode.com/problems/sqrtx/
  */
 
