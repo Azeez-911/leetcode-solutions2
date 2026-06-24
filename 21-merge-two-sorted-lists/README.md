@@ -47,7 +47,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | N/A |
-| Memory   | N/A |
+| Runtime  | 0 ms |
+| Memory   | 11.42 MB |
 | Language | unknown |
 | Solved   | 6/24/2026 |
