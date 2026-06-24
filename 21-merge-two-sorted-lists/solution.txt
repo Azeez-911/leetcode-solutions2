@@ -2,20 +2,29 @@
 // Difficulty : Easy
 // Language   : unknown
 // Runtime    : 0 ms
-// Memory     : 11.49 MB
+// Memory     : 11.50 MB
 // URL        : https://leetcode.com/problems/merge-two-sorted-lists/
 
-struct ListNode *current = &dummy;
-
-
-    struct ListNode dummy;
-ListNode* list1, struct ListNode* list2) {
-struct ListNode* mergeTwoLists(struct 
-
- */
- * };
- *     struct ListNode *next;
- *     int val;
- * struct ListNode {
- * Definition for singly-linked list.
 /**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     struct ListNode *next;
+ * };
+ */
+
+struct ListNode* mergeTwoLists(struct ListNode* list1, struct ListNode* list2) {
+
+    struct ListNode dummy;
+    struct ListNode *current = &dummy;
+
+    dummy.next = NULL;
+
+    while(list1 != NULL && list2 != NULL) {
+
+        if(list1->val <= list2->val) {
+            current->next = list1;
+            list1 = list1->next;
+        }
+        else {
+            current->next = li
