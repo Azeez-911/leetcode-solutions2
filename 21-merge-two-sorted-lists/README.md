@@ -48,6 +48,6 @@ Constraints:
 | Metric   | Value |
 |----------|-------|
 | Runtime  | 0 ms |
-| Memory   | 11.42 MB |
+| Memory   | 11.49 MB |
 | Language | unknown |
 | Solved   | 6/24/2026 |
