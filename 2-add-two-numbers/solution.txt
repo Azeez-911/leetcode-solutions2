@@ -1,0 +1,16 @@
+// LeetCode #2 - Add Two Numbers
+// Difficulty : Medium
+// Language   : unknown
+// Runtime    : N/A
+// Memory     : N/A
+// URL        : https://leetcode.com/problems/add-two-numbers/
+
+    ListNode l2) {
+        
+        ListNode dummy = new ListNode(0);
+        ListNode current = dummy;
+        
+        int carry = 0;
+        
+        while (l1 != null || l2 != null || 
+        carry != 0) {
