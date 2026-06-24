@@ -2,12 +2,15 @@
  * LeetCode #9 - Palindrome Number
  * Difficulty : Easy
  * Language   : java
- * Runtime    : N/A
- * Memory     : N/A
+ * Runtime    : 5 ms
+ * Memory     : 45.83 MB
  * URL        : https://leetcode.com/problems/palindrome-number/
  */
 
-ing with 0 (except 0) are not palindrome
+class Solution {
+    public boolean isPalindrome(int x) {
+        // Negative numbers are not palindrome
+        // Numbers ending with 0 (except 0) are not palindrome
         if (x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
         }
@@ -21,8 +24,4 @@ ing with 0 (except 0) are not palindrome
             x = x / 10;
         }
 
-        // Even length: x == reversed
-        // Odd length: x == reversed/10 (middle digit ignored)
-        return x == reversed || x == reversed / 10;
-    }
-}
+        // Even length: x == reve
