@@ -71,5 +71,5 @@ Constraints:
 |----------|-------|
 | Runtime  | 0 ms |
 | Memory   | 10.36 MB |
-| Language | java |
+| Language | unknown |
 | Solved   | 6/24/2026 |
