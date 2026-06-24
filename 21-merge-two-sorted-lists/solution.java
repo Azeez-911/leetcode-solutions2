@@ -27,4 +27,7 @@ class Solution {
         ListNode dummy = new ListNode(-1);
         ListNode current = dummy;
 
-        while (list1 != null && lis
+        while (list1 != null && list2 != null) {
+            
+            if (list1.val <= list2.val) {
+                current.next = list1;
