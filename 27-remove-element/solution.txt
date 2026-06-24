@@ -2,7 +2,7 @@
 // Difficulty : Easy
 // Language   : unknown
 // Runtime    : 0 ms
-// Memory     : 10.36 MB
+// Memory     : 10.40 MB
 // URL        : https://leetcode.com/problems/remove-element/
 
 int removeElement(int* nums, int numsSize, int val) {
