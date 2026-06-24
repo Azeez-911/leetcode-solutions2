@@ -48,7 +48,7 @@ Follow up: Could you solve it without converting the integer to a string?
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | N/A |
-| Memory   | N/A |
+| Runtime  | 5 ms |
+| Memory   | 45.83 MB |
 | Language | java |
 | Solved   | 6/24/2026 |
