@@ -2,8 +2,8 @@
  * LeetCode #66 - Plus One
  * Difficulty : Easy
  * Language   : java
- * Runtime    : N/A
- * Memory     : N/A
+ * Runtime    : 0 ms
+ * Memory     : 43.66 MB
  * URL        : https://leetcode.com/problems/plus-one/
  */
 
