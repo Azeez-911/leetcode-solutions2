@@ -70,6 +70,6 @@ Constraints:
 | Metric   | Value |
 |----------|-------|
 | Runtime  | 0 ms |
-| Memory   | 10.36 MB |
+| Memory   | 10.40 MB |
 | Language | unknown |
 | Solved   | 6/24/2026 |
