@@ -3,7 +3,7 @@
  * Difficulty : Easy
  * Language   : java
  * Runtime    : 5 ms
- * Memory     : 45.83 MB
+ * Memory     : 45.84 MB
  * URL        : https://leetcode.com/problems/palindrome-number/
  */
 
@@ -24,4 +24,8 @@ class Solution {
             x = x / 10;
         }
 
-        // Even length: x == reve
+        // Even length: x == reversed
+        // Odd length: x == reversed/10 (middle digit ignored)
+        return x == reversed || x == reversed / 10;
+    }
+}
