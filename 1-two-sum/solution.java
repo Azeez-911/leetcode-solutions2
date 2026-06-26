@@ -2,8 +2,8 @@
  * LeetCode #1 - Two Sum
  * Difficulty : Easy
  * Language   : java
- * Runtime    : 4 ms
- * Memory     : 47.32 MB
+ * Runtime    : 3 ms
+ * Memory     : 47.01 MB
  * URL        : https://leetcode.com/problems/two-sum/
  */
 
