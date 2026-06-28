@@ -32,7 +32,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 1 ms |
-| Memory   | 43.60 MB |
-| Language | cpp |
+| Runtime  | 8 ms |
+| Memory   | 12.42 MB |
+| Language | python |
 | Solved   | 6/28/2026 |
