@@ -2,32 +2,35 @@
  * LeetCode #67 - Add Binary
  * Difficulty : Easy
  * Language   : java
- * Runtime    : 1 ms
- * Memory     : 43.60 MB
+ * Runtime    : 8 ms
+ * Memory     : 12.42 MB
  * URL        : https://leetcode.com/problems/add-binary/
  */
 
-class Solution {
-    public String addBinary(String a, String b) {
-        StringBuilder result = new StringBuilder();
+class Solution(object):
+    def addBinary(self, a, b):
+        """
+        :type a: str
+        :type b: str
+        :rtype: str
+        """
+        i = len(a) - 1
+        j = len(b) - 1
+        carry = 0
+        result = []
 
-        int i = a.length() - 1;
-        int j = b.length() - 1;
-        int carry = 0;
+        while i >= 0 or j >= 0 or carry:
+            total = carry
 
-        while (i >= 0 || j >= 0 || carry != 0) {
-            int sum = carry;
+            if i >= 0:
+                total += int(a[i])
+                i -= 1
 
-            if (i >= 0)
-                sum += a.charAt(i--) - '0';
+            if j >= 0:
+                total += int(b[j])
+                j -= 1
 
-            if (j >= 0)
-                sum += b.charAt(j--) - '0';
+            result.append(str(total % 2))
+            carry = total // 2
 
-            result.append(sum % 2);
-            carry = sum / 2;
-        }
-
-        return result.reverse().toString();
-    }
-}
+        return ''.join(result[::-1])
