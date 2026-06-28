@@ -34,5 +34,5 @@ Constraints:
 |----------|-------|
 | Runtime  | 1 ms |
 | Memory   | 43.60 MB |
-| Language | java |
+| Language | cpp |
 | Solved   | 6/28/2026 |
