@@ -34,5 +34,5 @@ Constraints:
 |----------|-------|
 | Runtime  | 8 ms |
 | Memory   | 12.42 MB |
-| Language | python |
+| Language | java |
 | Solved   | 6/28/2026 |
