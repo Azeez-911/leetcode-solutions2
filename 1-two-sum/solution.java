@@ -2,29 +2,22 @@
  * LeetCode #1 - Two Sum
  * Difficulty : Easy
  * Language   : java
- * Runtime    : 3 ms
- * Memory     : 47.01 MB
+ * Runtime    : 2 ms
+ * Memory     : 47.02 MB
  * URL        : https://leetcode.com/problems/two-sum/
  */
 
-import java.util.HashMap;
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for(int i = 0; i < nums.length; i++) {
-
-            int complement = target - nums[i];
-
-            if(map.containsKey(complement)) {
-                return new int[] { map.get(complement), i };
-            }
-
-            map.put(nums[i], i);
-        }
-
-        return new int[] {};
+      Hashtable<Integer, Integer> hashTable = new Hashtable<Integer, Integer>();
+      int i = 0;
+      while ((i < nums.length) && (hashTable.get(nums[i]) == null)) {      
+        hashTable.put(target - nums[i], i);
+        i++;
+      }
+      if (i < nums.length) {
+        return new int[]{hashTable.get(nums[i]),i};
+      } 
+      return null;       
     }
 }
