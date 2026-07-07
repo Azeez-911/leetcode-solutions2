@@ -2,7 +2,7 @@
 # Difficulty : Easy
 # Language   : python
 # Runtime    : 0 ms
-# Memory     : 12.54 MB
+# Memory     : 12.42 MB
 # URL        : https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 
 class Solution:
