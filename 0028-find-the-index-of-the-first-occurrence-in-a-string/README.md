@@ -40,6 +40,6 @@ Constraints:
 | Metric   | Value |
 |----------|-------|
 | Runtime  | 0 ms |
-| Memory   | 12.54 MB |
+| Memory   | 12.42 MB |
 | Language | python |
 | Solved   | 7/7/2026 |
