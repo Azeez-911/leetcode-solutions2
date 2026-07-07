@@ -1,8 +1,8 @@
 # LeetCode #26 - Remove Duplicates from Sorted Array
 # Difficulty : Easy
 # Language   : python
-# Runtime    : 4 ms
-# Memory     : 13.83 MB
+# Runtime    : 3 ms
+# Memory     : 13.97 MB
 # URL        : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 class Solution:
