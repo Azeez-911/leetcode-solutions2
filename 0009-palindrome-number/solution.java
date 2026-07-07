@@ -2,8 +2,8 @@
  * LeetCode #9 - Palindrome Number
  * Difficulty : Easy
  * Language   : java
- * Runtime    : 3 ms
- * Memory     : 8.49 MB
+ * Runtime    : 0 ms
+ * Memory     : 8.68 MB
  * URL        : https://leetcode.com/problems/palindrome-number/
  */
 
