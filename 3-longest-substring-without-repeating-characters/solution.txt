@@ -1,6 +1,6 @@
 // LeetCode #3 - Longest Substring Without Repeating Characters
 // Difficulty : Medium
-// Language   : unknown
+// Language   : cpp
 // Runtime    : 8 ms
 // Memory     : 44.38 MB
 // URL        : https://leetcode.com/problems/longest-substring-without-repeating-characters/
