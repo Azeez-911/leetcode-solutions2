@@ -46,7 +46,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 2 ms |
-| Memory   | 58.27 MB |
+| Runtime  | 15 ms |
+| Memory   | 60.79 MB |
 | Language | javascript |
 | Solved   | 7/7/2026 |
