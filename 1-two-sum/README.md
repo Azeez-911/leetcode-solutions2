@@ -53,7 +53,7 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comp
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 4 ms |
-| Memory   | 56.64 MB |
+| Runtime  | 0 ms |
+| Memory   | 14.92 MB |
 | Language | cpp |
 | Solved   | 7/7/2026 |
