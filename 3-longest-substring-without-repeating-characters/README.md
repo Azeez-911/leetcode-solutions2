@@ -48,5 +48,5 @@ Constraints:
 |----------|-------|
 | Runtime  | 8 ms |
 | Memory   | 44.38 MB |
-| Language | unknown |
+| Language | cpp |
 | Solved   | 7/7/2026 |
