@@ -55,5 +55,5 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comp
 |----------|-------|
 | Runtime  | 48 ms |
 | Memory   | 54.48 MB |
-| Language | javascript |
+| Language | cpp |
 | Solved   | 7/7/2026 |
