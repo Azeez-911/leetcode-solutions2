@@ -48,5 +48,5 @@ Constraints:
 |----------|-------|
 | Runtime  | 2 ms |
 | Memory   | 58.27 MB |
-| Language | unknown |
+| Language | javascript |
 | Solved   | 7/7/2026 |
