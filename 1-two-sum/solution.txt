@@ -1,17 +1,21 @@
 // LeetCode #1 - Two Sum
 // Difficulty : Easy
-// Language   : unknown
-// Runtime    : N/A
-// Memory     : N/A
+// Language   : cpp
+// Runtime    : 48 ms
+// Memory     : 54.48 MB
 // URL        : https://leetcode.com/problems/two-sum/
 
-        for(int i = 0; i < nums.length; i++) {
-
-            int complement = target - nums[i];
-
-            if(map.containsKey(complement)) {
-                return new int[] { map.get
-                (complement), i };
-            }
-
-            map.put(nums[i], i);
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+      Hashtable<Integer, Integer> hashTable = new Hashtable<Integer, Integer>();
+      int i = 0;
+      while ((i < nums.length) && (hashTable.get(nums[i]) == null)) {      
+        hashTable.put(target - nums[i], i);
+        i++;
+      }
+      if (i < nums.length) {
+        return new int[]{hashTable.get(nums[i]),i};
+      } 
+      return null;       
+    }
+}
