@@ -46,7 +46,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 23 ms |
-| Memory   | 12.63 MB |
-| Language | python |
+| Runtime  | 8 ms |
+| Memory   | 44.38 MB |
+| Language | unknown |
 | Solved   | 7/7/2026 |
