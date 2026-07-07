@@ -1,24 +1,29 @@
 // LeetCode #9 - Palindrome Number
 // Difficulty : Easy
 // Language   : unknown
-// Runtime    : 0 ms
-// Memory     : 8.63 MB
+// Runtime    : 4 ms
+// Memory     : 46.19 MB
 // URL        : https://leetcode.com/problems/palindrome-number/
 
 class Solution {
-public:
-    bool isPalindrome(int x) {
-        if (x < 0)
+    public boolean isPalindrome(int x) {
+        // Negative numbers are not palindrome
+        // Numbers ending with 0 (except 0) are not palindrome
+        if (x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
-
-        int original = x;
-        long long reversed = 0;
-
-        while (x > 0) {
-            reversed = reversed * 10 + x % 10;
-            x /= 10;
         }
 
-        return original == reversed;
+        int reversed = 0;
+
+        // Reverse only half of the number
+        while (x > reversed) {
+            int digit = x % 10;
+            reversed = reversed * 10 + digit;
+            x = x / 10;
+        }
+
+        // Even length: x == reversed
+        // Odd length: x == reversed/10 (middle digit ignored)
+        return x == reversed || x == reversed / 10;
     }
-};
+}
