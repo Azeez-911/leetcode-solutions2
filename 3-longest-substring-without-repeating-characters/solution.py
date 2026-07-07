@@ -1,8 +1,8 @@
 # LeetCode #3 - Longest Substring Without Repeating Characters
 # Difficulty : Medium
 # Language   : python
-# Runtime    : 15 ms
-# Memory     : 12.54 MB
+# Runtime    : 23 ms
+# Memory     : 12.63 MB
 # URL        : https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 class Solution:
@@ -10,7 +10,7 @@ class Solution:
         last_seen = {}
         left = 0
         max_len = 0
-
+        #hello
         for right, ch in enumerate(s):
             if ch in last_seen and last_seen[ch] >= left:
                 left = last_seen[ch] + 1
