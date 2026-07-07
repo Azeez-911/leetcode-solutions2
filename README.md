@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 3 |
-| 🟢 Easy | 3 |
+| ✅ Total Solved | 4 |
+| 🟢 Easy | 4 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -19,6 +19,7 @@ Automatically synced using **LeetSync** 🚀
 
 | # | Problem | Difficulty | Language |
 |---:|---------|------------|----------|
+| 0009 | Palindrome Number | Easy | java |
 | 0013 | Roman to Integer | Easy | python |
 | 0014 | Longest Common Prefix | Easy | python |
 | 0026 | Remove Duplicates from Sorted Array | Easy | python |
