@@ -1,2 +1,5 @@
 # leetcode-solutions2
-My LeetCode solutions — auto-synced by LeetSync 🚀
+My LeetCode solutions â auto-synced by LeetSync ð
+
+| # | Problem | Difficulty | Language |
+|---|---------|------------|----------|
