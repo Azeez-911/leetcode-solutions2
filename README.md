@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 4 |
+| ✅ Total Solved | 5 |
 | 🟢 Easy | 4 |
-| 🟡 Medium | 0 |
+| 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
 
 ---
@@ -20,6 +20,7 @@ Automatically synced using **LeetSync** 🚀
 | # | Problem | Difficulty | Language |
 |---:|---------|------------|----------|
 | 0009 | Palindrome Number | Easy | java |
+| 0012 | Integer to Roman | Medium | java |
 | 0013 | Roman to Integer | Easy | python |
 | 0014 | Longest Common Prefix | Easy | python |
 | 0026 | Remove Duplicates from Sorted Array | Easy | python |
