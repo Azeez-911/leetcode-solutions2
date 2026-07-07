@@ -53,7 +53,7 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comp
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 2 ms |
-| Memory   | 47.02 MB |
-| Language | java |
-| Solved   | 7/2/2026 |
+| Runtime  | 0 ms |
+| Memory   | 12.98 MB |
+| Language | python |
+| Solved   | 7/7/2026 |
