@@ -1,6 +1,6 @@
 // LeetCode #1 - Two Sum
 // Difficulty : Easy
-// Language   : unknown
+// Language   : cpp
 // Runtime    : 4 ms
 // Memory     : 56.64 MB
 // URL        : https://leetcode.com/problems/two-sum/
