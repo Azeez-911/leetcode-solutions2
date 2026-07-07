@@ -49,6 +49,6 @@ Follow up: Could you solve it without converting the integer to a string?
 | Metric   | Value |
 |----------|-------|
 | Runtime  | 0 ms |
-| Memory   | 8.68 MB |
-| Language | java |
+| Memory   | 8.63 MB |
+| Language | unknown |
 | Solved   | 7/7/2026 |
