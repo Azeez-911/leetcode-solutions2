@@ -1,25 +1,29 @@
 // LeetCode #3 - Longest Substring Without Repeating Characters
 // Difficulty : Medium
-// Language   : unknown
-// Runtime    : 2 ms
-// Memory     : 58.27 MB
+// Language   : cpp
+// Runtime    : 15 ms
+// Memory     : 60.79 MB
 // URL        : https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
-function lengthOfLongestSubstring(s: string): number {
-    const lastSeen = new Map<string, number>();
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var lengthOfLongestSubstring = function(s) {
+    const lastSeen = {};
     let left = 0;
     let maxLen = 0;
 
     for (let right = 0; right < s.length; right++) {
         const ch = s[right];
 
-        if (lastSeen.has(ch) && lastSeen.get(ch)! >= left) {
-            left = lastSeen.get(ch)! + 1;
+        if (ch in lastSeen && lastSeen[ch] >= left) {
+            left = lastSeen[ch] + 1;
         }
 
-        lastSeen.set(ch, right);
+        lastSeen[ch] = right;
         maxLen = Math.max(maxLen, right - left + 1);
     }
 
     return maxLen;
-}
+};
