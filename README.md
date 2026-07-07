@@ -19,7 +19,7 @@ Automatically synced using **LeetSync** 🚀
 
 | # | Problem | Difficulty | Language |
 |---:|---------|------------|----------|
-| 0009 | Palindrome Number | Easy | java |
+| 0009 | Palindrome Number | Easy | unknown |
 | 0012 | Integer to Roman | Medium | java |
 | 0013 | Roman to Integer | Easy | python |
 | 0014 | Longest Common Prefix | Easy | python |
