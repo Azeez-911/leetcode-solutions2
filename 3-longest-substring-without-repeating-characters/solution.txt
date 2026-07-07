@@ -1,27 +1,25 @@
 // LeetCode #3 - Longest Substring Without Repeating Characters
 // Difficulty : Medium
-// Language   : cpp
-// Runtime    : 8 ms
-// Memory     : 44.38 MB
+// Language   : unknown
+// Runtime    : 2 ms
+// Memory     : 58.27 MB
 // URL        : https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
-public class Solution {
-    public int LengthOfLongestSubstring(string s) {
-        Dictionary<char, int> lastSeen = new Dictionary<char, int>();
-        int left = 0;
-        int maxLen = 0;
+function lengthOfLongestSubstring(s: string): number {
+    const lastSeen = new Map<string, number>();
+    let left = 0;
+    let maxLen = 0;
 
-        for (int right = 0; right < s.Length; right++) {
-            char ch = s[right];
+    for (let right = 0; right < s.length; right++) {
+        const ch = s[right];
 
-            if (lastSeen.ContainsKey(ch) && lastSeen[ch] >= left) {
-                left = lastSeen[ch] + 1;
-            }
-
-            lastSeen[ch] = right;
-            maxLen = Math.Max(maxLen, right - left + 1);
+        if (lastSeen.has(ch) && lastSeen.get(ch)! >= left) {
+            left = lastSeen.get(ch)! + 1;
         }
-//hello
-        return maxLen;
+
+        lastSeen.set(ch, right);
+        maxLen = Math.max(maxLen, right - left + 1);
     }
+
+    return maxLen;
 }
