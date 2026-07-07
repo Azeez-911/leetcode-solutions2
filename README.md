@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 2 |
-| 🟢 Easy | 2 |
+| ✅ Total Solved | 3 |
+| 🟢 Easy | 3 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 
@@ -21,6 +21,7 @@ Automatically synced using **LeetSync** 🚀
 |---:|---------|------------|----------|
 | 0013 | Roman to Integer | Easy | python |
 | 0014 | Longest Common Prefix | Easy | python |
+| 0026 | Remove Duplicates from Sorted Array | Easy | python |
 
 ---
 
