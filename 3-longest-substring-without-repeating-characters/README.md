@@ -46,7 +46,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 5 ms |
-| Memory   | 11.78 MB |
+| Runtime  | 11 ms |
+| Memory   | 11.85 MB |
 | Language | cpp |
 | Solved   | 7/7/2026 |
