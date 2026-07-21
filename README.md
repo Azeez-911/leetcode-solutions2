@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 6 |
-| 🟢 Easy | 5 |
+| ✅ Total Solved | 7 |
+| 🟢 Easy | 6 |
 | 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
 
@@ -25,7 +25,8 @@ Automatically synced using **LeetSync** 🚀
 | 0014 | Longest Common Prefix | Easy | python |
 | 0026 | Remove Duplicates from Sorted Array | Easy | python |
 | 0028 | Find the Index of the First Occurrence in a String | Easy | python |
+| 0136 | Single Number | Easy | python |
 
 ---
 
-_Last Updated: 7/7/2026_
+_Last Updated: 7/21/2026_
