@@ -8,7 +8,7 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 8 |
+| ✅ Total Solved | 9 |
 | 🟢 Easy | 6 |
 | 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
@@ -19,6 +19,7 @@ Automatically synced using **LeetSync** 🚀
 
 | # | Problem | Difficulty | Language |
 |---:|---------|------------|----------|
+| 0000 | Maximize Active Section With Trade I | Unknown | python |
 | 0009 | Palindrome Number | Easy | java |
 | 0012 | Integer to Roman | Medium | java |
 | 0013 | Roman to Integer | Easy | python |
