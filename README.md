@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 7 |
+| ✅ Total Solved | 8 |
 | 🟢 Easy | 6 |
-| 🟡 Medium | 1 |
+| 🟡 Medium | 2 |
 | 🔴 Hard | 0 |
 
 ---
@@ -26,7 +26,8 @@ Automatically synced using **LeetSync** 🚀
 | 0026 | Remove Duplicates from Sorted Array | Easy | python |
 | 0028 | Find the Index of the First Occurrence in a String | Easy | python |
 | 0136 | Single Number | Easy | python |
+| 3499 | Maximize Active Section with Trade I | Medium | python |
 
 ---
 
-_Last Updated: 7/21/2026_
+_Last Updated: 7/22/2026_
