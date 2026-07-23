@@ -19,7 +19,7 @@ Automatically synced using **LeetSync** 🚀
 
 | # | Problem | Difficulty | Language |
 |---:|---------|------------|----------|
-| 0000 | Maximize Active Section With Trade I | Unknown | python |
+| 0000 | House Robber | Unknown | unknown |
 | 0009 | Palindrome Number | Easy | java |
 | 0012 | Integer to Roman | Medium | java |
 | 0013 | Roman to Integer | Easy | python |
