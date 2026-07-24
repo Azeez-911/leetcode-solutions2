@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 10 |
+| ✅ Total Solved | 11 |
 | 🟢 Easy | 6 |
-| 🟡 Medium | 3 |
+| 🟡 Medium | 4 |
 | 🔴 Hard | 0 |
 
 ---
@@ -28,8 +28,9 @@ Automatically synced using **LeetSync** 🚀
 | 0028 | Find the Index of the First Occurrence in a String | Easy | python |
 | 0136 | Single Number | Easy | python |
 | 0198 | House Robber | Medium | unknown |
+| 0300 | Longest Increasing Subsequence | Medium | python |
 | 3499 | Maximize Active Section with Trade I | Medium | python |
 
 ---
 
-_Last Updated: 7/23/2026_
+_Last Updated: 7/24/2026_
