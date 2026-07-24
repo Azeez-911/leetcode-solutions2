@@ -1,8 +1,8 @@
 # LeetCode #300 - Longest Increasing Subsequence
 # Difficulty : Medium
 # Language   : python
-# Runtime    : 1244 ms
-# Memory     : 19.45 MB
+# Runtime    : 1234 ms
+# Memory     : 19.39 MB
 # URL        : https://leetcode.com/problems/longest-increasing-subsequence/
 
 class Solution {
