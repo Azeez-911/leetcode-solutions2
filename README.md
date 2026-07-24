@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 12 |
+| ✅ Total Solved | 13 |
 | 🟢 Easy | 6 |
-| 🟡 Medium | 5 |
+| 🟡 Medium | 6 |
 | 🔴 Hard | 0 |
 
 ---
@@ -27,6 +27,7 @@ Automatically synced using **LeetSync** 🚀
 | 0014 | Longest Common Prefix | Easy | python |
 | 0026 | Remove Duplicates from Sorted Array | Easy | python |
 | 0028 | Find the Index of the First Occurrence in a String | Easy | python |
+| 0029 | Divide Two Integers | Medium | python |
 | 0136 | Single Number | Easy | python |
 | 0198 | House Robber | Medium | unknown |
 | 0300 | Longest Increasing Subsequence | Medium | python |
