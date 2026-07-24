@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 11 |
+| ✅ Total Solved | 12 |
 | 🟢 Easy | 6 |
-| 🟡 Medium | 4 |
+| 🟡 Medium | 5 |
 | 🔴 Hard | 0 |
 
 ---
@@ -20,6 +20,7 @@ Automatically synced using **LeetSync** 🚀
 | # | Problem | Difficulty | Language |
 |---:|---------|------------|----------|
 | 0000 | House Robber | Unknown | unknown |
+| 0007 | Reverse Integer | Medium | python |
 | 0009 | Palindrome Number | Easy | java |
 | 0012 | Integer to Roman | Medium | java |
 | 0013 | Roman to Integer | Easy | python |
