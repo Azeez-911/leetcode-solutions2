@@ -47,7 +47,7 @@ Follow up: Can you come up with an algorithm that runs in O(n log(n)) time com
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 1244 ms |
-| Memory   | 19.45 MB |
+| Runtime  | 1234 ms |
+| Memory   | 19.39 MB |
 | Language | python |
 | Solved   | 7/24/2026 |
