@@ -1,8 +1,8 @@
 # LeetCode #322 - Coin Change
 # Difficulty : Medium
 # Language   : python
-# Runtime    : 474 ms
-# Memory     : 19.55 MB
+# Runtime    : 423 ms
+# Memory     : 19.50 MB
 # URL        : https://leetcode.com/problems/coin-change/
 
 class Solution:
