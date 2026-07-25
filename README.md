@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 13 |
+| ✅ Total Solved | 14 |
 | 🟢 Easy | 6 |
-| 🟡 Medium | 6 |
+| 🟡 Medium | 7 |
 | 🔴 Hard | 0 |
 
 ---
@@ -31,8 +31,9 @@ Automatically synced using **LeetSync** 🚀
 | 0136 | Single Number | Easy | python |
 | 0198 | House Robber | Medium | unknown |
 | 0300 | Longest Increasing Subsequence | Medium | python |
+| 0322 | Coin Change | Medium | python |
 | 3499 | Maximize Active Section with Trade I | Medium | python |
 
 ---
 
-_Last Updated: 7/24/2026_
+_Last Updated: 7/25/2026_
