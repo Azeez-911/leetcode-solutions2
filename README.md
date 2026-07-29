@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 14 |
-| 🟢 Easy | 6 |
+| ✅ Total Solved | 15 |
+| 🟢 Easy | 7 |
 | 🟡 Medium | 7 |
 | 🔴 Hard | 0 |
 
@@ -25,6 +25,7 @@ Automatically synced using **LeetSync** 🚀
 | 0012 | Integer to Roman | Medium | java |
 | 0013 | Roman to Integer | Easy | python |
 | 0014 | Longest Common Prefix | Easy | python |
+| 0020 | Valid Parentheses | Easy | python |
 | 0026 | Remove Duplicates from Sorted Array | Easy | python |
 | 0028 | Find the Index of the First Occurrence in a String | Easy | python |
 | 0029 | Divide Two Integers | Medium | python |
@@ -36,4 +37,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 7/25/2026_
+_Last Updated: 7/29/2026_
