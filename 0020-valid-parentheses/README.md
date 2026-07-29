@@ -72,7 +72,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 0 ms |
-| Memory   | 19.09 MB |
-| Language | python |
+| Runtime  | 3 ms |
+| Memory   | 43.13 MB |
+| Language | java |
 | Solved   | 7/29/2026 |
