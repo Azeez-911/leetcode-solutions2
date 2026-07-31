@@ -19,7 +19,7 @@ Automatically synced using **LeetSync** 🚀
 
 | # | Problem | Difficulty | Language |
 |---:|---------|------------|----------|
-| 0000 | House Robber | Unknown | unknown |
+| 0000 | Multiply Strings | Unknown | python |
 | 0007 | Reverse Integer | Medium | python |
 | 0009 | Palindrome Number | Easy | java |
 | 0012 | Integer to Roman | Medium | java |
@@ -39,4 +39,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 7/30/2026_
+_Last Updated: 7/31/2026_
