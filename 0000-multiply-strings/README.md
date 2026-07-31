@@ -16,7 +16,7 @@ _Problem statement not captured. Visit the link above._
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 35 ms |
-| Memory   | 19.30 MB |
+| Runtime  | 39 ms |
+| Memory   | 19.23 MB |
 | Language | python |
 | Solved   | 7/31/2026 |
