@@ -37,4 +37,4 @@ Constraints:
 | Runtime  | 35 ms |
 | Memory   | 19.30 MB |
 | Language | python |
-| Solved   | 7/31/2026 |
+| Solved   | 8/1/2026 |
