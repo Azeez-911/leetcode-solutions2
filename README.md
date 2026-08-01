@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 17 |
+| ✅ Total Solved | 18 |
 | 🟢 Easy | 9 |
-| 🟡 Medium | 7 |
+| 🟡 Medium | 8 |
 | 🔴 Hard | 0 |
 
 ---
@@ -29,6 +29,7 @@ Automatically synced using **LeetSync** 🚀
 | 0026 | Remove Duplicates from Sorted Array | Easy | python |
 | 0028 | Find the Index of the First Occurrence in a String | Easy | python |
 | 0029 | Divide Two Integers | Medium | python |
+| 0043 | Multiply Strings | Medium | python |
 | 0136 | Single Number | Easy | python |
 | 0198 | House Robber | Medium | unknown |
 | 0258 | Add Digits | Easy | java |
@@ -39,4 +40,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 7/31/2026_
+_Last Updated: 8/1/2026_
