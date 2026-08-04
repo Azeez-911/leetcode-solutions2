@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 19 |
-| 🟢 Easy | 9 |
+| ✅ Total Solved | 20 |
+| 🟢 Easy | 10 |
 | 🟡 Medium | 9 |
 | 🔴 Hard | 0 |
 
@@ -38,7 +38,8 @@ Automatically synced using **LeetSync** 🚀
 | 0322 | Coin Change | Medium | python |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | java |
 | 3499 | Maximize Active Section with Trade I | Medium | python |
+| 3731 | Find Missing Elements | Easy | java |
 
 ---
 
-_Last Updated: 8/3/2026_
+_Last Updated: 8/4/2026_
