@@ -2,8 +2,8 @@
  * LeetCode #268 - Missing Number
  * Difficulty : Easy
  * Language   : java
- * Runtime    : 8 ms
- * Memory     : 47.95 MB
+ * Runtime    : N/A
+ * Memory     : N/A
  * URL        : https://leetcode.com/problems/missing-number/
  */
 
