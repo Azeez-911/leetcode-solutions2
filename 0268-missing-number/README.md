@@ -84,7 +84,7 @@ Follow up: Could you implement a solution using only O(1) extra space complexity
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 9 ms |
-| Memory   | 48.18 MB |
-| Language | java |
+| Runtime  | N/A |
+| Memory   | N/A |
+| Language | cpp |
 | Solved   | 8/4/2026 |
