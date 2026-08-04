@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 20 |
-| 🟢 Easy | 10 |
+| ✅ Total Solved | 21 |
+| 🟢 Easy | 11 |
 | 🟡 Medium | 9 |
 | 🔴 Hard | 0 |
 
@@ -34,6 +34,7 @@ Automatically synced using **LeetSync** 🚀
 | 0136 | Single Number | Easy | python |
 | 0198 | House Robber | Medium | unknown |
 | 0258 | Add Digits | Easy | java |
+| 0268 | Missing Number | Easy | java |
 | 0300 | Longest Increasing Subsequence | Medium | python |
 | 0322 | Coin Change | Medium | python |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | java |
