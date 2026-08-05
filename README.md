@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 21 |
+| ✅ Total Solved | 22 |
 | 🟢 Easy | 11 |
-| 🟡 Medium | 9 |
+| 🟡 Medium | 10 |
 | 🔴 Hard | 0 |
 
 ---
@@ -38,6 +38,7 @@ Automatically synced using **LeetSync** 🚀
 | 0300 | Longest Increasing Subsequence | Medium | python |
 | 0322 | Coin Change | Medium | python |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | java |
+| 3310 | Remove Methods From Project | Medium | java |
 | 3499 | Maximize Active Section with Trade I | Medium | python |
 | 3731 | Find Missing Elements | Easy | java |
 
