@@ -3,7 +3,7 @@
  * Difficulty : Easy
  * Language   : java
  * Runtime    : 0 ms
- * Memory     : 42.15 MB
+ * Memory     : 42.20 MB
  * URL        : https://leetcode.com/problems/a-number-after-a-double-reversal/
  */
 
