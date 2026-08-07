@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 24 |
-| 🟢 Easy | 13 |
+| ✅ Total Solved | 25 |
+| 🟢 Easy | 14 |
 | 🟡 Medium | 10 |
 | 🔴 Hard | 0 |
 
@@ -38,6 +38,7 @@ Automatically synced using **LeetSync** 🚀
 | 0300 | Longest Increasing Subsequence | Medium | python |
 | 0322 | Coin Change | Medium | python |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | java |
+| 2119 | A Number After a Double Reversal | Easy | java |
 | 2520 | Count the Digits That Divide a Number | Easy | java |
 | 3310 | Remove Methods From Project | Medium | java |
 | 3345 | Smallest Divisible Digit Product I | Easy | java |
