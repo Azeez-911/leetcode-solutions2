@@ -3,7 +3,7 @@
  * Difficulty : Easy
  * Language   : java
  * Runtime    : 0 ms
- * Memory     : 42.03 MB
+ * Memory     : 42.22 MB
  * URL        : https://leetcode.com/problems/smallest-even-multiple/
  */
 
