@@ -9,7 +9,9 @@
 ## Problem
 
 Given a positive integer n, return the smallest positive integer that is a multiple of both 2 and n.
+
  
+
 Example 1:
 
 Input: n = 5
@@ -25,10 +27,10 @@ Explanation: The smallest multiple of both 6 and 2 is 6. Note that a number is a
 
 
  
+
 Constraints:
 
-
-	1 <= n <= 150
+1 <= n <= 150
 
 ---
 
@@ -36,7 +38,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 0 ms |
-| Memory   | 42.22 MB |
+| Runtime  | N/A |
+| Memory   | N/A |
 | Language | java |
 | Solved   | 8/8/2026 |
