@@ -2,8 +2,8 @@
  * LeetCode #2413 - Smallest Even Multiple
  * Difficulty : Easy
  * Language   : java
- * Runtime    : 0 ms
- * Memory     : 42.22 MB
+ * Runtime    : N/A
+ * Memory     : N/A
  * URL        : https://leetcode.com/problems/smallest-even-multiple/
  */
 
