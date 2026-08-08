@@ -37,6 +37,6 @@ Constraints:
 | Metric   | Value |
 |----------|-------|
 | Runtime  | 0 ms |
-| Memory   | 42.03 MB |
+| Memory   | 42.22 MB |
 | Language | java |
 | Solved   | 8/8/2026 |
