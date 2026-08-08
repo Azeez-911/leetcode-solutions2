@@ -1,0 +1,42 @@
+# 2413. Smallest Even Multiple
+
+![Easy](https://img.shields.io/badge/Easy-00b8a3?style=flat-square)
+
+**Link:** [leetcode.com/problems/smallest-even-multiple/](https://leetcode.com/problems/smallest-even-multiple/)
+
+---
+
+## Problem
+
+Given a positive integer n, return the smallest positive integer that is a multiple of both 2 and n.
+ 
+Example 1:
+
+Input: n = 5
+Output: 10
+Explanation: The smallest multiple of both 5 and 2 is 10.
+
+
+Example 2:
+
+Input: n = 6
+Output: 6
+Explanation: The smallest multiple of both 6 and 2 is 6. Note that a number is a multiple of itself.
+
+
+ 
+Constraints:
+
+
+	1 <= n <= 150
+
+---
+
+## Stats
+
+| Metric   | Value |
+|----------|-------|
+| Runtime  | 0 ms |
+| Memory   | 0.00 MB |
+| Language | java |
+| Solved   | 8/8/2026 |
