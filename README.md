@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 26 |
+| ✅ Total Solved | 27 |
 | 🟢 Easy | 15 |
-| 🟡 Medium | 10 |
+| 🟡 Medium | 11 |
 | 🔴 Hard | 0 |
 
 ---
@@ -37,6 +37,7 @@ Automatically synced using **LeetSync** 🚀
 | 0268 | Missing Number | Easy | java |
 | 0300 | Longest Increasing Subsequence | Medium | python |
 | 0322 | Coin Change | Medium | python |
+| 1140 | Stone Game II | Medium | java |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | java |
 | 2119 | A Number After a Double Reversal | Easy | java |
 | 2413 | Smallest Even Multiple | Easy | java |
@@ -48,4 +49,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 8/8/2026_
+_Last Updated: 8/9/2026_
