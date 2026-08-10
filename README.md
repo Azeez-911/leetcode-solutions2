@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 27 |
+| ✅ Total Solved | 28 |
 | 🟢 Easy | 15 |
-| 🟡 Medium | 11 |
+| 🟡 Medium | 12 |
 | 🔴 Hard | 0 |
 
 ---
@@ -20,6 +20,7 @@ Automatically synced using **LeetSync** 🚀
 | # | Problem | Difficulty | Language |
 |---:|---------|------------|----------|
 | 0000 | Multiply Strings | Unknown | python |
+| 0005 | Longest Palindromic Substring | Medium | java |
 | 0007 | Reverse Integer | Medium | python |
 | 0009 | Palindrome Number | Easy | java |
 | 0012 | Integer to Roman | Medium | java |
@@ -49,4 +50,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 8/9/2026_
+_Last Updated: 8/10/2026_
