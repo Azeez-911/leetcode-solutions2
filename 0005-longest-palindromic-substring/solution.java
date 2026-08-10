@@ -2,8 +2,8 @@
  * LeetCode #5 - Longest Palindromic Substring
  * Difficulty : Medium
  * Language   : java
- * Runtime    : 14 ms
- * Memory     : 43.80 MB
+ * Runtime    : 15 ms
+ * Memory     : 43.71 MB
  * URL        : https://leetcode.com/problems/longest-palindromic-substring/
  */
 
