@@ -2,8 +2,8 @@
  * LeetCode #2996 - Smallest Missing Integer Greater Than Sequential Prefix Sum
  * Difficulty : Easy
  * Language   : java
- * Runtime    : 1 ms
- * Memory     : 44.17 MB
+ * Runtime    : 2 ms
+ * Memory     : 44.22 MB
  * URL        : https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/
  */
 
