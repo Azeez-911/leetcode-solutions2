@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 28 |
-| 🟢 Easy | 15 |
+| ✅ Total Solved | 29 |
+| 🟢 Easy | 16 |
 | 🟡 Medium | 12 |
 | 🔴 Hard | 0 |
 
@@ -43,6 +43,7 @@ Automatically synced using **LeetSync** 🚀
 | 2119 | A Number After a Double Reversal | Easy | java |
 | 2413 | Smallest Even Multiple | Easy | java |
 | 2520 | Count the Digits That Divide a Number | Easy | java |
+| 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | java |
 | 3310 | Remove Methods From Project | Medium | java |
 | 3345 | Smallest Divisible Digit Product I | Easy | java |
 | 3499 | Maximize Active Section with Trade I | Medium | python |
@@ -50,4 +51,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 8/10/2026_
+_Last Updated: 8/11/2026_
