@@ -1,7 +1,7 @@
 // LeetCode #181 - Employees Earning More Than Their Managers
 // Difficulty : Easy
 // Language   : unknown
-// Runtime    : N/A
+// Runtime    : 440 ms
 // Memory     : N/A
 // URL        : https://leetcode.com/problems/employees-earning-more-than-their-managers/
 
