@@ -57,7 +57,7 @@ Explanation: Joe is the only employee who earns more than his manager.
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | N/A |
+| Runtime  | 440 ms |
 | Memory   | N/A |
 | Language | unknown |
 | Solved   | 8/13/2026 |
