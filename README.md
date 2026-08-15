@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 31 |
+| ✅ Total Solved | 32 |
 | 🟢 Easy | 18 |
-| 🟡 Medium | 12 |
+| 🟡 Medium | 13 |
 | 🔴 Hard | 0 |
 
 ---
@@ -23,6 +23,7 @@ Automatically synced using **LeetSync** 🚀
 | 0005 | Longest Palindromic Substring | Medium | java |
 | 0007 | Reverse Integer | Medium | python |
 | 0009 | Palindrome Number | Easy | java |
+| 0011 | Container With Most Water | Medium | java |
 | 0012 | Integer to Roman | Medium | java |
 | 0013 | Roman to Integer | Easy | python |
 | 0014 | Longest Common Prefix | Easy | python |
@@ -53,4 +54,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 8/14/2026_
+_Last Updated: 8/15/2026_
