@@ -19,7 +19,7 @@ Automatically synced using **LeetSync** 🚀
 
 | # | Problem | Difficulty | Language |
 |---:|---------|------------|----------|
-| 0000 | Multiply Strings | Unknown | python |
+| 0000 | Container With Most Water | Unknown | java |
 | 0005 | Longest Palindromic Substring | Medium | java |
 | 0007 | Reverse Integer | Medium | python |
 | 0009 | Palindrome Number | Easy | java |
