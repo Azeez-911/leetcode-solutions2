@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 34 |
-| 🟢 Easy | 20 |
+| ✅ Total Solved | 35 |
+| 🟢 Easy | 21 |
 | 🟡 Medium | 13 |
 | 🔴 Hard | 0 |
 
@@ -44,6 +44,7 @@ Automatically synced using **LeetSync** 🚀
 | 0322 | Coin Change | Medium | python |
 | 1140 | Stone Game II | Medium | java |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | java |
+| 1480 | Running Sum of 1d Array | Easy | java |
 | 2119 | A Number After a Double Reversal | Easy | java |
 | 2413 | Smallest Even Multiple | Easy | java |
 | 2520 | Count the Digits That Divide a Number | Easy | java |
