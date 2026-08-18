@@ -46,6 +46,6 @@ The number of nodes in both trees is in the range [0, 100].
 | Metric   | Value |
 |----------|-------|
 | Runtime  | 0 ms |
-| Memory   | 43.05 MB |
+| Memory   | 42.90 MB |
 | Language | java |
 | Solved   | 8/18/2026 |
