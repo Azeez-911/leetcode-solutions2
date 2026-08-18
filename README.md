@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 33 |
-| 🟢 Easy | 19 |
+| ✅ Total Solved | 34 |
+| 🟢 Easy | 20 |
 | 🟡 Medium | 13 |
 | 🔴 Hard | 0 |
 
@@ -34,6 +34,7 @@ Automatically synced using **LeetSync** 🚀
 | 0029 | Divide Two Integers | Medium | python |
 | 0043 | Multiply Strings | Medium | python |
 | 0070 | Climbing Stairs | Easy | java |
+| 0100 | Same Tree | Easy | java |
 | 0136 | Single Number | Easy | python |
 | 0181 | Employees Earning More Than Their Managers | Easy | unknown |
 | 0198 | House Robber | Medium | unknown |
@@ -55,4 +56,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 8/16/2026_
+_Last Updated: 8/18/2026_
