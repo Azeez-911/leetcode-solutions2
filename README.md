@@ -57,4 +57,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 8/18/2026_
+_Last Updated: 8/20/2026_
