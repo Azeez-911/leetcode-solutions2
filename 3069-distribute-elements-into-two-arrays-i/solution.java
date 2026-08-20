@@ -3,7 +3,7 @@
  * Difficulty : Easy
  * Language   : java
  * Runtime    : 1 ms
- * Memory     : 46.31 MB
+ * Memory     : 46.80 MB
  * URL        : https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
  */
 
