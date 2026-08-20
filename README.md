@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 35 |
-| 🟢 Easy | 21 |
+| ✅ Total Solved | 36 |
+| 🟢 Easy | 22 |
 | 🟡 Medium | 13 |
 | 🔴 Hard | 0 |
 
@@ -49,6 +49,7 @@ Automatically synced using **LeetSync** 🚀
 | 2413 | Smallest Even Multiple | Easy | java |
 | 2520 | Count the Digits That Divide a Number | Easy | java |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Easy | java |
+| 3069 | Distribute Elements Into Two Arrays I | Easy | java |
 | 3090 | Maximum Length Substring With Two Occurrences | Easy | java |
 | 3310 | Remove Methods From Project | Medium | java |
 | 3345 | Smallest Divisible Digit Product I | Easy | java |
