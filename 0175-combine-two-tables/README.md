@@ -80,7 +80,7 @@ addressId = 1 contains information about the address of personId = 2.
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 478 ms |
+| Runtime  | 456 ms |
 | Memory   | N/A |
 | Language | unknown |
 | Solved   | 8/21/2026 |
