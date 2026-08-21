@@ -1,7 +1,7 @@
 // LeetCode #176 - Second Highest Salary
 // Difficulty : Medium
 // Language   : unknown
-// Runtime    : 294 ms
+// Runtime    : 469 ms
 // Memory     : N/A
 // URL        : https://leetcode.com/problems/second-highest-salary/
 
