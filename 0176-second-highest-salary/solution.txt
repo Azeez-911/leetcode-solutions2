@@ -1,0 +1,10 @@
+// LeetCode #176 - Second Highest Salary
+// Difficulty : Medium
+// Language   : unknown
+// Runtime    : 294 ms
+// Memory     : N/A
+// URL        : https://leetcode.com/problems/second-highest-salary/
+
+SELECT MAX(salary) AS SecondHighestSalary
+FROM Employee
+WHERE salary < (SELECT MAX(salary) FROM Employee);
