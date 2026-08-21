@@ -46,6 +46,7 @@ Return the result table in any order.
 The result format is in the following example.
 
  
+
 Example 1:
 
 Input: 
@@ -80,7 +81,7 @@ addressId = 1 contains information about the address of personId = 2.
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 456 ms |
+| Runtime  | N/A |
 | Memory   | N/A |
 | Language | unknown |
 | Solved   | 8/21/2026 |
