@@ -32,6 +32,7 @@ for (int i = 0; i < k; i++) {
 If all assertions pass, then your solution will be accepted.
 
  
+
 Example 1:
 
 Input: nums = [1,1,2]
@@ -49,12 +50,12 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 
  
+
 Constraints:
 
-
-	1 <= nums.length <= 3 * 104
-	-100 <= nums[i] <= 100
-	nums is sorted in non-decreasing order.
+1 <= nums.length <= 3 * 104
+-100 <= nums[i] <= 100
+nums is sorted in non-decreasing order.
 
 ---
 
@@ -62,7 +63,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 1 ms |
-| Memory   | 46.63 MB |
+| Runtime  | N/A |
+| Memory   | N/A |
 | Language | java |
 | Solved   | 8/23/2026 |
