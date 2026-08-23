@@ -2,8 +2,8 @@
  * LeetCode #26 - Remove Duplicates from Sorted Array
  * Difficulty : Easy
  * Language   : java
- * Runtime    : 1 ms
- * Memory     : 46.63 MB
+ * Runtime    : N/A
+ * Memory     : N/A
  * URL        : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  */
 
