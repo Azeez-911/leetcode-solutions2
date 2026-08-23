@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 39 |
-| 🟢 Easy | 23 |
+| ✅ Total Solved | 40 |
+| 🟢 Easy | 24 |
 | 🟡 Medium | 15 |
 | 🔴 Hard | 0 |
 
@@ -30,6 +30,7 @@ Automatically synced using **LeetSync** 🚀
 | 0016 | 3Sum Closest | Medium | java |
 | 0020 | Valid Parentheses | Easy | java |
 | 0026 | Remove Duplicates from Sorted Array | Easy | python |
+| 0027 | Remove Element | Easy | java |
 | 0028 | Find the Index of the First Occurrence in a String | Easy | python |
 | 0029 | Divide Two Integers | Medium | python |
 | 0043 | Multiply Strings | Medium | python |
