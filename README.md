@@ -29,7 +29,7 @@ Automatically synced using **LeetSync** 🚀
 | 0014 | Longest Common Prefix | Easy | python |
 | 0016 | 3Sum Closest | Medium | java |
 | 0020 | Valid Parentheses | Easy | java |
-| 0026 | Remove Duplicates from Sorted Array | Easy | python |
+| 0026 | Remove Duplicates from Sorted Array | Easy | java |
 | 0027 | Remove Element | Easy | java |
 | 0028 | Find the Index of the First Occurrence in a String | Easy | python |
 | 0029 | Divide Two Integers | Medium | python |
