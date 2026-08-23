@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 38 |
+| ✅ Total Solved | 39 |
 | 🟢 Easy | 23 |
-| 🟡 Medium | 14 |
+| 🟡 Medium | 15 |
 | 🔴 Hard | 0 |
 
 ---
@@ -38,6 +38,7 @@ Automatically synced using **LeetSync** 🚀
 | 0136 | Single Number | Easy | python |
 | 0175 | Combine Two Tables | Easy | unknown |
 | 0176 | Second Highest Salary | Medium | unknown |
+| 0177 | Nth Highest Salary | Medium | unknown |
 | 0181 | Employees Earning More Than Their Managers | Easy | unknown |
 | 0198 | House Robber | Medium | unknown |
 | 0258 | Add Digits | Easy | java |
@@ -60,4 +61,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 8/21/2026_
+_Last Updated: 8/23/2026_
