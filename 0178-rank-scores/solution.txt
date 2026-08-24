@@ -1,0 +1,12 @@
+// LeetCode #178 - Rank Scores
+// Difficulty : Medium
+// Language   : unknown
+// Runtime    : 331 ms
+// Memory     : N/A
+// URL        : https://leetcode.com/problems/rank-scores/
+
+SELECT 
+    score,
+    DENSE_RANK() OVER (ORDER BY score DESC) AS `rank`
+FROM Scores
+ORDER BY score DESC;
