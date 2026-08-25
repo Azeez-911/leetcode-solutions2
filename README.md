@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 41 |
-| 🟢 Easy | 24 |
+| ✅ Total Solved | 42 |
+| 🟢 Easy | 25 |
 | 🟡 Medium | 16 |
 | 🔴 Hard | 0 |
 
@@ -42,6 +42,7 @@ Automatically synced using **LeetSync** 🚀
 | 0177 | Nth Highest Salary | Medium | unknown |
 | 0178 | Rank Scores | Medium | unknown |
 | 0181 | Employees Earning More Than Their Managers | Easy | unknown |
+| 0182 | Duplicate Emails | Easy | unknown |
 | 0198 | House Robber | Medium | unknown |
 | 0258 | Add Digits | Easy | java |
 | 0268 | Missing Number | Easy | java |
@@ -63,4 +64,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 8/24/2026_
+_Last Updated: 8/25/2026_
