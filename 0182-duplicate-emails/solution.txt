@@ -1,0 +1,11 @@
+// LeetCode #182 - Duplicate Emails
+// Difficulty : Easy
+// Language   : unknown
+// Runtime    : 366 ms
+// Memory     : N/A
+// URL        : https://leetcode.com/problems/duplicate-emails/
+
+# Write your MySQL query statement below
+select email from Person
+group by email
+having count(email)>1
