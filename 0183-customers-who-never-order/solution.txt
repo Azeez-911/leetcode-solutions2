@@ -1,7 +1,7 @@
 // LeetCode #183 - Customers Who Never Order
 // Difficulty : Easy
 // Language   : unknown
-// Runtime    : 572 ms
+// Runtime    : 532 ms
 // Memory     : N/A
 // URL        : https://leetcode.com/problems/customers-who-never-order/
 
