@@ -82,7 +82,7 @@ Explanation: Max and Jim both have the highest salary in the IT department and H
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 1029 ms |
+| Runtime  | 992 ms |
 | Memory   | N/A |
 | Language | unknown |
 | Solved   | 8/29/2026 |
