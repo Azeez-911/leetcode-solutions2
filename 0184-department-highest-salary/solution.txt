@@ -1,7 +1,7 @@
 // LeetCode #184 - Department Highest Salary
 // Difficulty : Medium
 // Language   : unknown
-// Runtime    : 1029 ms
+// Runtime    : 992 ms
 // Memory     : N/A
 // URL        : https://leetcode.com/problems/department-highest-salary/
 
