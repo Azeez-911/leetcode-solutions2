@@ -80,4 +80,4 @@ Output:
 | Runtime  | 532 ms |
 | Memory   | N/A |
 | Language | unknown |
-| Solved   | 8/27/2026 |
+| Solved   | 8/29/2026 |
