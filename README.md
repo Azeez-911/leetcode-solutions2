@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 43 |
+| ✅ Total Solved | 44 |
 | 🟢 Easy | 26 |
-| 🟡 Medium | 16 |
+| 🟡 Medium | 17 |
 | 🔴 Hard | 0 |
 
 ---
@@ -44,6 +44,7 @@ Automatically synced using **LeetSync** 🚀
 | 0181 | Employees Earning More Than Their Managers | Easy | unknown |
 | 0182 | Duplicate Emails | Easy | unknown |
 | 0183 | Customers Who Never Order | Easy | unknown |
+| 0184 | Department Highest Salary | Medium | unknown |
 | 0198 | House Robber | Medium | unknown |
 | 0258 | Add Digits | Easy | java |
 | 0268 | Missing Number | Easy | java |
