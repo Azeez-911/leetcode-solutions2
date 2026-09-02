@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 45 |
-| 🟢 Easy | 27 |
+| ✅ Total Solved | 46 |
+| 🟢 Easy | 28 |
 | 🟡 Medium | 17 |
 | 🔴 Hard | 0 |
 
@@ -64,7 +64,8 @@ Automatically synced using **LeetSync** 🚀
 | 3345 | Smallest Divisible Digit Product I | Easy | java |
 | 3499 | Maximize Active Section with Trade I | Medium | python |
 | 3731 | Find Missing Elements | Easy | java |
+| 3875 | Construct Uniform Parity Array I | Easy | java |
 
 ---
 
-_Last Updated: 8/30/2026_
+_Last Updated: 9/2/2026_
