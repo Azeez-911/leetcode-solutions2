@@ -2,8 +2,8 @@
  * LeetCode #3903 - Smallest Stable Index I
  * Difficulty : Easy
  * Language   : java
- * Runtime    : 0 ms
- * Memory     : 0.00 MB
+ * Runtime    : 1 ms
+ * Memory     : 46.59 MB
  * URL        : https://leetcode.com/problems/smallest-stable-index-i/
  */
 
