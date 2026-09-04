@@ -85,7 +85,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 0 ms |
-| Memory   | 0.00 MB |
+| Runtime  | 1 ms |
+| Memory   | 46.59 MB |
 | Language | java |
 | Solved   | 9/4/2026 |
