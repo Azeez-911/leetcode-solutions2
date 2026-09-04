@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 46 |
-| 🟢 Easy | 28 |
+| ✅ Total Solved | 47 |
+| 🟢 Easy | 29 |
 | 🟡 Medium | 17 |
 | 🔴 Hard | 0 |
 
@@ -65,7 +65,8 @@ Automatically synced using **LeetSync** 🚀
 | 3499 | Maximize Active Section with Trade I | Medium | python |
 | 3731 | Find Missing Elements | Easy | java |
 | 3875 | Construct Uniform Parity Array I | Easy | java |
+| 3903 | Smallest Stable Index I | Easy | java |
 
 ---
 
-_Last Updated: 9/2/2026_
+_Last Updated: 9/4/2026_
