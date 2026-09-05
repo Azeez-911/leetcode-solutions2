@@ -1,0 +1,36 @@
+/*
+ * LeetCode #3904 - Smallest Stable Index II
+ * Difficulty : Medium
+ * Language   : java
+ * Runtime    : 4 ms
+ * Memory     : 133.35 MB
+ * URL        : https://leetcode.com/problems/smallest-stable-index-ii/
+ */
+
+class Solution {
+    public int firstStableIndex(int[] nums, int k) {
+        int n = nums.length;
+
+        // suffixMin[i] = minimum from i to n-1
+        int[] suffixMin = new int[n];
+
+        suffixMin[n - 1] = nums[n - 1];
+
+        for (int i = n - 2; i >= 0; i--) {
+            suffixMin[i] = Math.min(nums[i], suffixMin[i + 1]);
+        }
+
+        // prefix maximum
+        int prefixMax = nums[0];
+
+        for (int i = 0; i < n; i++) {
+            prefixMax = Math.max(prefixMax, nums[i]);
+
+            if (prefixMax - suffixMin[i] <= k) {
+                return i;
+            }
+        }
+
+        return -1;
+    }
+}
