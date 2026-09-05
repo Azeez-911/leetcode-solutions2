@@ -3,7 +3,7 @@
  * Difficulty : Medium
  * Language   : java
  * Runtime    : 4 ms
- * Memory     : 133.35 MB
+ * Memory     : 133.50 MB
  * URL        : https://leetcode.com/problems/smallest-stable-index-ii/
  */
 
