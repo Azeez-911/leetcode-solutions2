@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 47 |
+| ✅ Total Solved | 48 |
 | 🟢 Easy | 29 |
-| 🟡 Medium | 17 |
+| 🟡 Medium | 18 |
 | 🔴 Hard | 0 |
 
 ---
@@ -66,7 +66,8 @@ Automatically synced using **LeetSync** 🚀
 | 3731 | Find Missing Elements | Easy | java |
 | 3875 | Construct Uniform Parity Array I | Easy | java |
 | 3903 | Smallest Stable Index I | Easy | java |
+| 3904 | Smallest Stable Index II | Medium | java |
 
 ---
 
-_Last Updated: 9/4/2026_
+_Last Updated: 9/5/2026_
