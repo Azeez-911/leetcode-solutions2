@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 48 |
-| 🟢 Easy | 29 |
+| ✅ Total Solved | 49 |
+| 🟢 Easy | 30 |
 | 🟡 Medium | 18 |
 | 🔴 Hard | 0 |
 
@@ -50,6 +50,7 @@ Automatically synced using **LeetSync** 🚀
 | 0268 | Missing Number | Easy | java |
 | 0300 | Longest Increasing Subsequence | Medium | python |
 | 0322 | Coin Change | Medium | python |
+| 0620 | Not Boring Movies | Easy | unknown |
 | 1114 | Print in Order | Easy | java |
 | 1140 | Stone Game II | Medium | java |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy | java |
@@ -70,4 +71,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 9/5/2026_
+_Last Updated: 9/6/2026_
