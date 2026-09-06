@@ -1,7 +1,7 @@
 // LeetCode #620 - Not Boring Movies
 // Difficulty : Easy
 // Language   : unknown
-// Runtime    : 286 ms
+// Runtime    : 272 ms
 // Memory     : N/A
 // URL        : https://leetcode.com/problems/not-boring-movies/
 
