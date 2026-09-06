@@ -1,0 +1,12 @@
+// LeetCode #620 - Not Boring Movies
+// Difficulty : Easy
+// Language   : unknown
+// Runtime    : 286 ms
+// Memory     : N/A
+// URL        : https://leetcode.com/problems/not-boring-movies/
+
+SELECT *
+FROM Cinema
+WHERE id % 2 = 1
+  AND description <> 'boring'
+ORDER BY rating DESC;
