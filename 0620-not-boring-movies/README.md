@@ -61,7 +61,7 @@ We have three movies with odd-numbered IDs: 1, 3, and 5. The movie with ID = 3 i
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 286 ms |
+| Runtime  | 272 ms |
 | Memory   | N/A |
 | Language | unknown |
 | Solved   | 9/6/2026 |
