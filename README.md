@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 49 |
+| ✅ Total Solved | 50 |
 | 🟢 Easy | 30 |
-| 🟡 Medium | 18 |
+| 🟡 Medium | 19 |
 | 🔴 Hard | 0 |
 
 ---
@@ -65,10 +65,11 @@ Automatically synced using **LeetSync** 🚀
 | 3345 | Smallest Divisible Digit Product I | Easy | java |
 | 3499 | Maximize Active Section with Trade I | Medium | python |
 | 3731 | Find Missing Elements | Easy | java |
+| 3871 | Count Commas in Range II | Medium | java |
 | 3875 | Construct Uniform Parity Array I | Easy | java |
 | 3903 | Smallest Stable Index I | Easy | java |
 | 3904 | Smallest Stable Index II | Medium | java |
 
 ---
 
-_Last Updated: 9/6/2026_
+_Last Updated: 9/9/2026_
