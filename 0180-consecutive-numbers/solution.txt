@@ -1,7 +1,7 @@
 // LeetCode #180 - Consecutive Numbers
 // Difficulty : Medium
 // Language   : unknown
-// Runtime    : 611 ms
+// Runtime    : 668 ms
 // Memory     : N/A
 // URL        : https://leetcode.com/problems/consecutive-numbers/
 
