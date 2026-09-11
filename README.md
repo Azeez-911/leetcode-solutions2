@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 50 |
+| ✅ Total Solved | 51 |
 | 🟢 Easy | 30 |
-| 🟡 Medium | 19 |
+| 🟡 Medium | 20 |
 | 🔴 Hard | 0 |
 
 ---
@@ -41,6 +41,7 @@ Automatically synced using **LeetSync** 🚀
 | 0176 | Second Highest Salary | Medium | unknown |
 | 0177 | Nth Highest Salary | Medium | unknown |
 | 0178 | Rank Scores | Medium | unknown |
+| 0180 | Consecutive Numbers | Medium | unknown |
 | 0181 | Employees Earning More Than Their Managers | Easy | unknown |
 | 0182 | Duplicate Emails | Easy | unknown |
 | 0183 | Customers Who Never Order | Easy | unknown |
@@ -72,4 +73,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 9/9/2026_
+_Last Updated: 9/11/2026_
