@@ -3,7 +3,7 @@
  * Difficulty : Medium
  * Language   : java
  * Runtime    : 8 ms
- * Memory     : 42.40 MB
+ * Memory     : 42.98 MB
  * URL        : https://leetcode.com/problems/count-and-say/
  */
 
