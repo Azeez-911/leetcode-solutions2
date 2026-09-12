@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 51 |
+| ✅ Total Solved | 52 |
 | 🟢 Easy | 30 |
-| 🟡 Medium | 20 |
+| 🟡 Medium | 21 |
 | 🔴 Hard | 0 |
 
 ---
@@ -33,6 +33,7 @@ Automatically synced using **LeetSync** 🚀
 | 0027 | Remove Element | Easy | java |
 | 0028 | Find the Index of the First Occurrence in a String | Easy | python |
 | 0029 | Divide Two Integers | Medium | python |
+| 0038 | Count and Say | Medium | java |
 | 0043 | Multiply Strings | Medium | python |
 | 0070 | Climbing Stairs | Easy | java |
 | 0100 | Same Tree | Easy | java |
@@ -73,4 +74,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 9/11/2026_
+_Last Updated: 9/12/2026_
