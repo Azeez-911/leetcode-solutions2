@@ -65,6 +65,6 @@ Follow up: Could you solve it iteratively?
 | Metric   | Value |
 |----------|-------|
 | Runtime  | 8 ms |
-| Memory   | 42.40 MB |
+| Memory   | 42.98 MB |
 | Language | java |
 | Solved   | 9/12/2026 |
