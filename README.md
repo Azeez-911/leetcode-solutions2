@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 52 |
+| ✅ Total Solved | 53 |
 | 🟢 Easy | 30 |
-| 🟡 Medium | 21 |
+| 🟡 Medium | 22 |
 | 🔴 Hard | 0 |
 
 ---
@@ -29,6 +29,7 @@ Automatically synced using **LeetSync** 🚀
 | 0014 | Longest Common Prefix | Easy | python |
 | 0016 | 3Sum Closest | Medium | java |
 | 0020 | Valid Parentheses | Easy | java |
+| 0022 | Generate Parentheses | Medium | java |
 | 0026 | Remove Duplicates from Sorted Array | Easy | java |
 | 0027 | Remove Element | Easy | java |
 | 0028 | Find the Index of the First Occurrence in a String | Easy | python |
@@ -74,4 +75,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 9/12/2026_
+_Last Updated: 9/13/2026_
