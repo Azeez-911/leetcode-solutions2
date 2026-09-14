@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 53 |
+| ✅ Total Solved | 54 |
 | 🟢 Easy | 30 |
-| 🟡 Medium | 22 |
+| 🟡 Medium | 23 |
 | 🔴 Hard | 0 |
 
 ---
@@ -21,6 +21,7 @@ Automatically synced using **LeetSync** 🚀
 |---:|---------|------------|----------|
 | 0000 | Container With Most Water | Unknown | java |
 | 0005 | Longest Palindromic Substring | Medium | java |
+| 0006 | Zigzag Conversion | Medium | java |
 | 0007 | Reverse Integer | Medium | python |
 | 0009 | Palindrome Number | Easy | java |
 | 0011 | Container With Most Water | Medium | java |
@@ -75,4 +76,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 9/13/2026_
+_Last Updated: 9/14/2026_
