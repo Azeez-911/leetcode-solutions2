@@ -3,7 +3,7 @@
  * Difficulty : Medium
  * Language   : java
  * Runtime    : 4 ms
- * Memory     : 46.63 MB
+ * Memory     : 46.78 MB
  * URL        : https://leetcode.com/problems/zigzag-conversion/
  */
 
