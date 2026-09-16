@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 54 |
+| ✅ Total Solved | 55 |
 | 🟢 Easy | 30 |
-| 🟡 Medium | 23 |
+| 🟡 Medium | 24 |
 | 🔴 Hard | 0 |
 
 ---
@@ -38,6 +38,7 @@ Automatically synced using **LeetSync** 🚀
 | 0038 | Count and Say | Medium | java |
 | 0043 | Multiply Strings | Medium | python |
 | 0070 | Climbing Stairs | Easy | java |
+| 0097 | Interleaving String | Medium | java |
 | 0100 | Same Tree | Easy | java |
 | 0136 | Single Number | Easy | python |
 | 0175 | Combine Two Tables | Easy | unknown |
@@ -76,4 +77,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 9/14/2026_
+_Last Updated: 9/16/2026_
