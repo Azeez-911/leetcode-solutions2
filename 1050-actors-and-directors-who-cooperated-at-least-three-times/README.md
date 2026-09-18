@@ -58,7 +58,7 @@ Explanation: The only pair is (1, 1) where they cooperated exactly 3 times.
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 348 ms |
+| Runtime  | 448 ms |
 | Memory   | N/A |
 | Language | unknown |
 | Solved   | 9/18/2026 |
