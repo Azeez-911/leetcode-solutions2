@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 56 |
+| ✅ Total Solved | 57 |
 | 🟢 Easy | 31 |
-| 🟡 Medium | 24 |
+| 🟡 Medium | 25 |
 | 🔴 Hard | 0 |
 
 ---
@@ -20,6 +20,7 @@ Automatically synced using **LeetSync** 🚀
 | # | Problem | Difficulty | Language |
 |---:|---------|------------|----------|
 | 0000 | Container With Most Water | Unknown | java |
+| 0002 | Add Two Numbers | Medium | java |
 | 0005 | Longest Palindromic Substring | Medium | java |
 | 0006 | Zigzag Conversion | Medium | java |
 | 0007 | Reverse Integer | Medium | python |
@@ -78,4 +79,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 9/18/2026_
+_Last Updated: 9/20/2026_
