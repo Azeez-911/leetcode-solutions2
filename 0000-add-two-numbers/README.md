@@ -17,6 +17,6 @@ _Problem statement not captured. Visit the link above._
 | Metric   | Value |
 |----------|-------|
 | Runtime  | 1 ms |
-| Memory   | 46.15 MB |
+| Memory   | 46.51 MB |
 | Language | java |
 | Solved   | 9/20/2026 |
