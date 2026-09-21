@@ -1,7 +1,7 @@
 // LeetCode #178 - Rank Scores
 // Difficulty : Medium
 // Language   : unknown
-// Runtime    : 350 ms
+// Runtime    : 315 ms
 // Memory     : N/A
 // URL        : https://leetcode.com/problems/rank-scores/
 
