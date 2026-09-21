@@ -67,7 +67,7 @@ Output:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 350 ms |
+| Runtime  | 315 ms |
 | Memory   | N/A |
 | Language | unknown |
 | Solved   | 9/21/2026 |
