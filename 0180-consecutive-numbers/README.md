@@ -58,7 +58,7 @@ Explanation: 1 is the only number that appears consecutively for at least three 
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | N/A |
+| Runtime  | 3696 ms |
 | Memory   | N/A |
 | Language | unknown |
 | Solved   | 9/26/2026 |
