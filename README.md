@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 57 |
-| 🟢 Easy | 31 |
+| ✅ Total Solved | 58 |
+| 🟢 Easy | 32 |
 | 🟡 Medium | 25 |
 | 🔴 Hard | 0 |
 
@@ -57,6 +57,7 @@ Automatically synced using **LeetSync** 🚀
 | 0300 | Longest Increasing Subsequence | Medium | python |
 | 0322 | Coin Change | Medium | python |
 | 0620 | Not Boring Movies | Easy | unknown |
+| 0704 | Binary Search | Easy | java |
 | 1050 | Actors and Directors Who Cooperated At Least Three Times | Easy | unknown |
 | 1114 | Print in Order | Easy | java |
 | 1140 | Stone Game II | Medium | java |
@@ -79,4 +80,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 9/26/2026_
+_Last Updated: 9/28/2026_
