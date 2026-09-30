@@ -40,7 +40,7 @@ Automatically synced using **LeetSync** 🚀
 | 0034 | Find First and Last Position of Element in Sorted Array | Medium | java |
 | 0038 | Count and Say | Medium | java |
 | 0043 | Multiply Strings | Medium | python |
-| 0069 | Sqrt(x) | Easy | java |
+| 0069 | Sqrt(x) | Easy | cpp |
 | 0070 | Climbing Stairs | Easy | java |
 | 0097 | Interleaving String | Medium | java |
 | 0100 | Same Tree | Easy | java |
