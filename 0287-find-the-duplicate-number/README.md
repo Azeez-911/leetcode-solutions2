@@ -55,7 +55,7 @@ Follow up:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 20 ms |
-| Memory   | 91.87 MB |
+| Runtime  | 22 ms |
+| Memory   | 91.85 MB |
 | Language | java |
 | Solved   | 9/30/2026 |
