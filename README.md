@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 61 |
+| ✅ Total Solved | 62 |
 | 🟢 Easy | 33 |
-| 🟡 Medium | 27 |
+| 🟡 Medium | 28 |
 | 🔴 Hard | 0 |
 
 ---
@@ -57,6 +57,7 @@ Automatically synced using **LeetSync** 🚀
 | 0198 | House Robber | Medium | unknown |
 | 0258 | Add Digits | Easy | java |
 | 0268 | Missing Number | Easy | java |
+| 0287 | Find the Duplicate Number | Medium | java |
 | 0300 | Longest Increasing Subsequence | Medium | python |
 | 0322 | Coin Change | Medium | python |
 | 0620 | Not Boring Movies | Easy | unknown |
