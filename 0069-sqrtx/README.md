@@ -12,11 +12,10 @@ Given a non-negative integer x, return the square root of x rounded down to the 
 
 You must not use any built-in exponent function or operator.
 
-
-	For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.
-
+For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.
 
  
+
 Example 1:
 
 Input: x = 4
@@ -32,10 +31,10 @@ Explanation: The square root of 8 is 2.82842..., and since we round it down to t
 
 
  
+
 Constraints:
 
-
-	0 <= x <= 231 - 1
+0 <= x <= 231 - 1
 
 ---
 
@@ -43,7 +42,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 1 ms |
-| Memory   | 42.61 MB |
-| Language | java |
+| Runtime  | N/A |
+| Memory   | N/A |
+| Language | cpp |
 | Solved   | 9/30/2026 |
