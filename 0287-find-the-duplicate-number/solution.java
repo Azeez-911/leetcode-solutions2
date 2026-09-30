@@ -2,8 +2,8 @@
  * LeetCode #287 - Find the Duplicate Number
  * Difficulty : Medium
  * Language   : java
- * Runtime    : 22 ms
- * Memory     : 91.85 MB
+ * Runtime    : 21 ms
+ * Memory     : 92.10 MB
  * URL        : https://leetcode.com/problems/find-the-duplicate-number/
  */
 
