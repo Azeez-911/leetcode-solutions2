@@ -3,7 +3,7 @@
  * Difficulty : Easy
  * Language   : java
  * Runtime    : 0 ms
- * Memory     : 48.38 MB
+ * Memory     : 48.33 MB
  * URL        : https://leetcode.com/problems/binary-search/
  */
 
