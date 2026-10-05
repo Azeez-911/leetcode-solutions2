@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 62 |
-| 🟢 Easy | 33 |
+| ✅ Total Solved | 63 |
+| 🟢 Easy | 34 |
 | 🟡 Medium | 28 |
 | 🔴 Hard | 0 |
 
@@ -40,6 +40,7 @@ Automatically synced using **LeetSync** 🚀
 | 0034 | Find First and Last Position of Element in Sorted Array | Medium | java |
 | 0038 | Count and Say | Medium | java |
 | 0043 | Multiply Strings | Medium | python |
+| 0058 | Length of Last Word | Easy | java |
 | 0069 | Sqrt(x) | Easy | cpp |
 | 0070 | Climbing Stairs | Easy | java |
 | 0097 | Interleaving String | Medium | java |
@@ -84,4 +85,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 10/3/2026_
+_Last Updated: 10/5/2026_
