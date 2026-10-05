@@ -3,7 +3,7 @@
  * Difficulty : Easy
  * Language   : java
  * Runtime    : 0 ms
- * Memory     : 43.10 MB
+ * Memory     : 43.17 MB
  * URL        : https://leetcode.com/problems/length-of-last-word/
  */
 
