@@ -85,4 +85,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 10/5/2026_
+_Last Updated: 10/6/2026_
