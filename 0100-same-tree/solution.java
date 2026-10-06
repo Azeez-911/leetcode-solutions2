@@ -3,7 +3,7 @@
  * Difficulty : Easy
  * Language   : java
  * Runtime    : 0 ms
- * Memory     : 42.68 MB
+ * Memory     : 42.96 MB
  * URL        : https://leetcode.com/problems/same-tree/
  */
 
