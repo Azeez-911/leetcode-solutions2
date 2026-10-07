@@ -82,7 +82,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 5 ms |
-| Memory   | 12.74 MB |
-| Language | java |
-| Solved   | 7/7/2026 |
+| Runtime  | 0 ms |
+| Memory   | 12.71 MB |
+| Language | cpp |
+| Solved   | 10/7/2026 |
