@@ -82,7 +82,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 0 ms |
-| Memory   | 12.71 MB |
+| Runtime  | 11 ms |
+| Memory   | 12.75 MB |
 | Language | cpp |
 | Solved   | 10/7/2026 |
