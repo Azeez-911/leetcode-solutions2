@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 63 |
-| 🟢 Easy | 34 |
+| ✅ Total Solved | 64 |
+| 🟢 Easy | 35 |
 | 🟡 Medium | 28 |
 | 🔴 Hard | 0 |
 
@@ -56,6 +56,7 @@ Automatically synced using **LeetSync** 🚀
 | 0183 | Customers Who Never Order | Easy | unknown |
 | 0184 | Department Highest Salary | Medium | unknown |
 | 0198 | House Robber | Medium | unknown |
+| 0231 | Power of Two | Easy | cpp |
 | 0258 | Add Digits | Easy | java |
 | 0268 | Missing Number | Easy | java |
 | 0287 | Find the Duplicate Number | Medium | java |
@@ -85,4 +86,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 10/7/2026_
+_Last Updated: 10/9/2026_
