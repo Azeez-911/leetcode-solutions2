@@ -2,7 +2,7 @@
 # Difficulty : Medium
 # Language   : python
 # Runtime    : 39 ms
-# Memory     : 19.29 MB
+# Memory     : 19.40 MB
 # URL        : https://leetcode.com/problems/multiply-strings/
 
 class Solution:
