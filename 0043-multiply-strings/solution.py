@@ -1,8 +1,8 @@
 # LeetCode #43 - Multiply Strings
 # Difficulty : Medium
 # Language   : python
-# Runtime    : 35 ms
-# Memory     : 19.30 MB
+# Runtime    : 39 ms
+# Memory     : 19.29 MB
 # URL        : https://leetcode.com/problems/multiply-strings/
 
 class Solution:
