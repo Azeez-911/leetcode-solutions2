@@ -35,6 +35,6 @@ Constraints:
 | Metric   | Value |
 |----------|-------|
 | Runtime  | 39 ms |
-| Memory   | 19.29 MB |
+| Memory   | 19.40 MB |
 | Language | python |
 | Solved   | 10/10/2026 |
