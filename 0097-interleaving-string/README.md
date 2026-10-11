@@ -63,7 +63,7 @@ Follow up: Could you solve it using only O(s2.length) additional memory space?
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 3 ms |
-| Memory   | 42.91 MB |
+| Runtime  | 5 ms |
+| Memory   | 43.36 MB |
 | Language | java |
 | Solved   | 10/11/2026 |
