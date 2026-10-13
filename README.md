@@ -8,8 +8,8 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 65 |
-| 🟢 Easy | 36 |
+| ✅ Total Solved | 66 |
+| 🟢 Easy | 37 |
 | 🟡 Medium | 28 |
 | 🔴 Hard | 0 |
 
@@ -46,6 +46,7 @@ Automatically synced using **LeetSync** 🚀
 | 0097 | Interleaving String | Medium | java |
 | 0100 | Same Tree | Easy | java |
 | 0136 | Single Number | Easy | python |
+| 0169 | Majority Element | Easy | java |
 | 0175 | Combine Two Tables | Easy | unknown |
 | 0176 | Second Highest Salary | Medium | unknown |
 | 0177 | Nth Highest Salary | Medium | unknown |
@@ -87,4 +88,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 10/12/2026_
+_Last Updated: 10/13/2026_
