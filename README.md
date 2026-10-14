@@ -8,9 +8,9 @@ Automatically synced using **LeetSync** 🚀
 
 | Metric | Count |
 |--------|------:|
-| ✅ Total Solved | 66 |
+| ✅ Total Solved | 67 |
 | 🟢 Easy | 37 |
-| 🟡 Medium | 28 |
+| 🟡 Medium | 29 |
 | 🔴 Hard | 0 |
 
 ---
@@ -21,6 +21,7 @@ Automatically synced using **LeetSync** 🚀
 |---:|---------|------------|----------|
 | 0000 | Add Two Numbers | Unknown | java |
 | 0002 | Add Two Numbers | Medium | java |
+| 0003 | Longest Substring Without Repeating Characters | Medium | java |
 | 0005 | Longest Palindromic Substring | Medium | java |
 | 0006 | Zigzag Conversion | Medium | java |
 | 0007 | Reverse Integer | Medium | python |
@@ -88,4 +89,4 @@ Automatically synced using **LeetSync** 🚀
 
 ---
 
-_Last Updated: 10/13/2026_
+_Last Updated: 10/14/2026_
