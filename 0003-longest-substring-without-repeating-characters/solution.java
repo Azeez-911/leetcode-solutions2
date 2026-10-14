@@ -2,8 +2,8 @@
  * LeetCode #3 - Longest Substring Without Repeating Characters
  * Difficulty : Medium
  * Language   : java
- * Runtime    : 44 ms
- * Memory     : 47.49 MB
+ * Runtime    : 46 ms
+ * Memory     : 47.33 MB
  * URL        : https://leetcode.com/problems/longest-substring-without-repeating-characters/
  */
 
