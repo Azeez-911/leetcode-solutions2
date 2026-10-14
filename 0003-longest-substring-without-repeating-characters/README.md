@@ -37,7 +37,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 Constraints:
 
 
-	0 <= s.length <= 5 * 104
+	0 <= s.length <= 105
 	s consists of English letters, digits, symbols and spaces.
 
 ---
@@ -46,7 +46,7 @@ Constraints:
 
 | Metric   | Value |
 |----------|-------|
-| Runtime  | 5 ms |
-| Memory   | 45.67 MB |
+| Runtime  | 44 ms |
+| Memory   | 47.49 MB |
 | Language | java |
-| Solved   | 7/7/2026 |
+| Solved   | 10/14/2026 |
